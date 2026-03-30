@@ -1,16 +1,25 @@
-## Hi there 👋
+# Сергей Александров — Junior Data Analyst
+Начинающий аналитик данных с фокусом на продуктовую аналитику.
+Работаю с Python, pandas, SQL, статистическим анализом и A/B-тестами.
+## Стек
+- Python
+- pandas
+- SQL
+- matplotlib
+- статистический анализ
+- A/B-тесты
+- продуктовые метрики
 
-<!--
-**alexandrov-data/alexandrov-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Избранные проекты
 
-Here are some ideas to get you started:
+### 1. Анализ бизнес-показателей
+LTV, CAC, ROI, когортный анализ, оценка эффективности привлечения пользователей.  
+[Открыть проект](ссылка)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. Статистический анализ данных
+Проверка гипотез, исследование различий между группами, интерпретация результатов для бизнеса.  
+[Открыть проект](ссылка)
+
+## Контакты
+- Telegram: ...
+- Email: ...
