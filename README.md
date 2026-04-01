@@ -19,5 +19,5 @@ LTV, CAC, ROI, когортный анализ, оценка эффективн�
 [Открыть проект](ссылка)
 
 ## Контакты
-- Telegram: ...
-- Email: ...
+- Telegram: DataDrivenMind@yandex.com
+- Email: sergey.alexandrov.data@yandex.com
